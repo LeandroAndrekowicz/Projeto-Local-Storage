@@ -1,0 +1,6 @@
+Desejável que utilize o Go Live
+
+Email para acessar: admin@gmail.com
+Senha para acessar: 123456
+
+Não está funcionando a parte de registrar um novo e-mail e senha!!
